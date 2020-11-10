@@ -1,0 +1,449 @@
+.header {
+    font-family: 'Poppins', sans-serif;
+}
+
+.headerlogo {
+    height: 49px;
+    width: 187px;
+    padding-left: 20px;
+}
+
+.nav-ul {
+    display: inline;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.nu {
+    padding-left: 100px;
+}
+
+
+.parent {
+    display: flex;
+}
+
+.myPic {
+    width: 50%;
+        padding-left: 300px;
+}
+
+.partA,
+.partB {
+    width: 50%;
+}
+
+
+.HomeFront {
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    width: 484px; 
+Height : 63px;
+Top :105px;
+Left :128px;
+font: Poppins;
+font-weight :400px;
+font-style :normal;
+font-size :12px;
+line-height :18px;
+}
+
+.hello {
+    padding-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+   width: 36px;
+Height: 21px;
+Top: 281px;
+Left: 128px;
+font: Poppins ; 
+font-weight: 600px;
+font-style : normal;
+font-size: 14px;
+line-height: 21px;
+}
+
+.name {
+    padding-left: 50px;
+    Width :563px;
+Height :46px;
+Top :307px;
+Left :127px;
+Font :Poppins;
+font-weight :700;
+font-style :normal;
+font-size :40px;
+line-height:60px;
+}
+
+
+.freelance {
+    Width:339px;
+Height :42px;
+Top :401px;
+Left :129px;
+    padding-left: 50px;
+    Font :Poppins;
+font-weight :400;
+font-style:normal;
+font-size:12px;
+line-height:18px;
+}
+
+.contactM {
+    padding-left: 30%;
+        background: #4349d3;
+        color: #ffffff;
+        display: block;
+        width: 20%;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        padding: 10px;
+        
+}
+
+.aboutme {
+ font-family: 'Poppins', sans-serif;
+    text-align: center;
+    display: flex;
+}
+
+.partC, 
+.partD {
+    width: 50%;
+}
+
+.boutpics {
+    border-left: 10%;
+    padding-top: 70px;
+    width: 50%;
+    height: 400px;
+    padding-right:50px;
+}
+
+.partD {
+    border-left: 10%;
+    padding-top: 70px;
+    padding-left: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    text-align: left;
+    Width:417px;
+Height :420px;
+Top :410px;
+Left :765px;
+    Font :Poppins;
+font-weight :400px;
+font-style:normal;
+font-size:12px;
+line-height:18px;
+}
+
+.bout {
+    padding-top: 30px;
+    text-align: center;
+    /* Width:198px; */
+/* Height:56px;  */
+Top :291px;
+left :656px;
+font:Poppins;
+font-weight:700px;
+ font-style:normal; 
+font-size:36px;
+line-height:54px; 
+}
+
+.read {
+background: #4349d3;
+color: #ffffff;
+        display: block;
+        width: 20%;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        padding: 10px;
+}
+
+.expert {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-top: 30px;
+    text-align: center;
+Top :291px;
+left :656px;
+font:Poppins;
+font-weight:700px;
+ font-style:normal; 
+font-size:36px;
+line-height:54px; 
+}
+
+.contactme {
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-top: 30px;
+    text-align: center;
+Top :291px;
+left :656px;
+font:Poppins;
+font-weight:700px;
+ font-style:normal; 
+font-size:36px;
+line-height:54px; 
+}
+
+.expertise{
+    display: flex;
+    margin: 2PX;
+    /* border: 20%; */
+    padding-left: 5%;
+}
+
+.childex,
+.frontend,
+.backend{
+    width: 20%;
+}
+
+.childex{
+    background-color: #DBCECE;
+    padding: 2%;
+    border: 2%;
+    margin: 2%;
+}
+
+.uiux{
+Top :460px;
+Left:334px;
+    Font:Poppins;
+font-weight:600px;
+font-style:normal;
+font-size: 20px;
+line-height:30px;
+text-align: center;
+}
+
+.UX {
+    padding-left: 100px;
+        }
+    
+        .uiux {
+            text-align: center;
+        }
+
+.UI {
+   Top :512px;
+Left :256px;
+Font:Poppins;
+font-weight:400px;
+font-style:normal;
+font-size:12px;
+line-height: 18px;
+text-align: center;
+}
+
+.frontend {
+    background-color: #dbcece;
+        padding: 2%;
+        border: 2%;
+        margin: 2%;
+    }
+
+.ft{
+Top :510px;
+Left :629px;
+Font:Poppins;
+font-weight:400px;
+font-style:normal;
+font-size:12px;
+line-height: 18px;
+text-align: center;
+}
+
+    .front{
+padding-left: 100px;
+    }
+
+    .fronte {
+        Top :105px;
+Left:30px;
+    Font:Poppins;
+font-weight:600px;
+font-style:normal;
+font-size: 20px;
+line-height:30px;
+text-align: center;
+
+    }
+.backend{
+    background-color:#DBCECE ;
+        padding: 2%;
+        border: 21%;
+        margin: 2%;
+        }
+        
+        .backe{
+            padding-left: 100px;
+                }
+            
+.backen {
+Top :456px;
+Left:1107px;
+Font:Poppins;
+font-weight:600px;
+font-style:normal;
+font-size: 20px;
+line-height:30px;
+text-align: center;
+                }
+
+                .back {
+                    Top :502px;
+                Left :1007px;
+                Font:Poppins;
+                font-weight:400px;
+                font-style:normal;
+                font-size:12px;
+                line-height: 18px;
+                text-align: center;
+                }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    height: 70%;
+    width: 30%;
+    margin-left: 420px;
+    background-color: #f0e8e8;
+    margin-bottom: 26px;
+    border: 0;
+    border-radius: 2%;
+       }
+
+       .block {
+           margin-bottom: 46px;
+           background-color: #f0e8e8;
+           border-top-style: hidden;
+           border-right-style: hidden;
+           border-left-style: hidden;
+           border-bottom-style: groove;
+           border-left-width: 30px;
+                           }
+
+                           .lock {
+                            margin-bottom: 46px;
+                            background-color: #f0e8e8;
+                            border-top-style: hidden;
+                            border-right-style: hidden;
+                            border-left-style: hidden;
+                            border-bottom-style: groove;
+                                                                        }
+                 
+
+                                            .ock {
+                                                margin-bottom: 46px;
+                                              background-color: #f0e8e8;
+                                                border-top-style: hidden;
+                                                border-right-style: hidden;
+                                                border-left-style: hidden;
+                                                border-bottom-style: groove;
+                                                padding-top: 60px;
+                                 
+                                            }
+             .free {
+                 text-align: center;
+             }                               
+    .message {
+        width: 150px;
+        height: 30px;
+        background-color: #4349d3;
+        color: white;
+        border-radius: 20px;
+        align-self: center;
+    }                   
+    
+    .contactlink {
+        padding-left: 32%;
+        padding-top: 5%;
+    }
+
+   .navhome {
+    Width :36px;
+    Height :18px;
+    Top :38px;
+    Left :348px;
+    Font :Poppins;
+font-weight:400;
+font-style:normal;
+font-size:12px;
+line-height:18px;
+}
+
+
+.navabout { 
+    Width :57px;
+    Height :18px;
+    Top :38px;
+    Left :460px;
+    Font :Poppins;
+font-weight:400;
+font-style:normal;
+font-size:12px;
+line-height:18px;
+}
+
+.navexpert {
+        Width :53px;
+    Height :18px;
+    Top :38px;
+    Left :348px;
+    Font :Poppins;
+font-weight:400;
+font-style:normal;
+font-size:12px;
+line-height:18px;
+}
+
+.navcont {
+    Width :49px;
+    Height :18px;
+    Top :38px;
+    Left :680px;
+    Font :Poppins;
+font-weight:400;
+font-style:normal;
+font-size:12px;
+line-height:18px;
+} 
+
+ .homeimg {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.ict {
+    width: 484px;
+    height: 63px;
+    top: 105px;
+    left: 128px;
+    font-weight: 400px;
+    font-style: normal;
+    size: 12px;
+    line-height: 18px;
+}
+
