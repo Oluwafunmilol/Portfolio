@@ -10,7 +10,7 @@ Name and age in years will be required to fill this form and all field must be i
 ![This is an alt text](/assets/images/Captureportfolio.PNG "This is a sample logo")
 
 ## Link
-(https://github.com/Oluwafunmilol/Age-calculator.git)
+(https://github.com/Oluwafunmilol/Portfolio.git)
 
 ### Built with
 HTML
@@ -18,7 +18,7 @@ CSS
 Java script
 
 # Live Demo
-This is alive demo(https://raw.githack.com/Oluwafunmilol/Age-calculator/master/age.html)
+This is alive demo(https://raw.githack.com/Oluwafunmilol/Portfolio/main/index.html)
 
 # Author
 Olukowajo Funmilola Esther
