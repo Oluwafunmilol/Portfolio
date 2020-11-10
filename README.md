@@ -4,7 +4,7 @@
 My portfolio.
 
 ## Instruction
-Name and age in years will be required to fill this form and all field must be inputed. 
+Click the buttons and navigation bar to access all pages. Forms and all field must be inputed. 
 
 # Project screenshoot
 ![This is an alt text](/assets/images/Captureportfolio.PNG "This is a sample logo")
